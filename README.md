@@ -1,6 +1,6 @@
 # konektor
 
-A new Flutter project.
+A App that aims at connecting and bringing artisans and services to places where there services are needed in real time.
 
 ## Getting Started
 
